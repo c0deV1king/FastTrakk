@@ -1,2 +1,2 @@
 # FastTrakk
-Formula 1 track data visualizer
+To be updated after some progress
